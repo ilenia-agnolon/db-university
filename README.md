@@ -35,16 +35,17 @@ Diagramma realizzato con lucidchart(https://www.lucidchart.com/)
 
 ## 🗂 Struttura del progetto
 
-db-university/
-│
-├── DB/
-│ └── db*university.sql # Script SQL completo (creazione e dati)
-│
-├── EX*-Query/
-│ ├── EX-Query_con_SELECT.txt # Esercizi con SELECT
-│ └── EX-\_Query_con_GROUP_BY.txt # Esercizi con GROUP BY
-│
-├── schema ER/
-│ └── db-university-schema.jpeg # Diagramma ER
-│
-└── README.md # Documentazione del progetto
+- **DB/**
+
+  - `db_university.sql` → Script SQL completo (creazione e dati)
+
+- **EX\_-_Query/**
+
+  - `EX_-_Query_con_SELECT.txt` → Esercizi con SELECT
+  - `EX_-_Query_con_GROUP_BY.txt` → Esercizi con GROUP BY
+
+- **schema ER/**
+
+  - `db-university-schema.jpeg` → Diagramma E-R
+
+- `README.md` → Documentazione del progetto
