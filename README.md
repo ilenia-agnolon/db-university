@@ -29,4 +29,22 @@ Infine, definiamo le **colonne** e i **tipi di dato** di ogni tabella.
 
 Diagramma realizzato con lucidchart(https://www.lucidchart.com/)
 
-![ER Diagram](db-university-schema.jpeg)
+![ER Diagram](./schema%20ER/db-university-schema.jpeg)
+
+---
+
+## 🗂 Struttura del progetto
+
+db-university/
+│
+├── DB/
+│ └── db*university.sql # Script SQL completo (creazione e dati)
+│
+├── EX*-Query/
+│ ├── EX-Query_con_SELECT.txt # Esercizi con SELECT
+│ └── EX-\_Query_con_GROUP_BY.txt # Esercizi con GROUP BY
+│
+├── schema ER/
+│ └── db-university-schema.jpeg # Diagramma ER
+│
+└── README.md # Documentazione del progetto
