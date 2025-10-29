@@ -43,6 +43,7 @@ Diagramma realizzato con lucidchart(https://www.lucidchart.com/)
 
   - `EX_-_Query_con_SELECT.txt` → Esercizi con SELECT
   - `EX_-_Query_con_GROUP_BY.txt` → Esercizi con GROUP BY
+  - `EX_-_Query_con_JOIN.txt` → Esercizi con JOIN tra tabelle
 
 - **schema ER/**
 
